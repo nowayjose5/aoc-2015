@@ -6,7 +6,9 @@
   "scripts": {
     "build": "tsc",
     "start:1a": "ts-node src/01/a.ts",
-    "start:1b": "ts-node src/01/b.ts"
+    "start:1b": "ts-node src/01/b.ts",
+    "start:2a": "ts-node src/02/a.ts",
+    "start:2b": "ts-node src/02/b.ts"
   },
   "keywords": [],
   "author": "",
